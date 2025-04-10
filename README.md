@@ -59,7 +59,7 @@ This report is built using a **star schema** data model with a central fact tabl
 - `DimCity`
 - `DimDate`
 
-![ERD]([https://github.com/AbdelrahmanTheAnalyst/Item-Sales-Summary-Report-Project/blob/main/ERD.png)
+![ERD](https://github.com/AbdelrahmanTheAnalyst/Item-Sales-Summary-Report-Project/blob/main/ERD.png)
 
 ---
 
