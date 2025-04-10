@@ -27,9 +27,7 @@ An interactive Power BI dashboard analyzing item sales across different geograph
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/AbdelrahmanTheAnalyst/your-repo-name/raw/main/your-dashboard-image.png)
-
-> _Replace with actual image URL after uploading the dashboard screenshot._
+![Dashboard Screenshot]([https://github.com/AbdelrahmanTheAnalyst/your-repo-name/raw/main/your-dashboard-image.png](https://github.com/AbdelrahmanTheAnalyst/Item-Sales-Summary-Report-Project/blob/main/Dashboard.png)
 
 ---
 
@@ -61,9 +59,7 @@ This report is built using a **star schema** data model with a central fact tabl
 - `DimCity`
 - `DimDate`
 
-![ERD]([https://github.com/AbdelrahmanTheAnalyst/Item-Sales-Summary-Report/blob/main/ERD.png))
-
-> _Replace with actual image URL after uploading the ERD diagram._
+![ERD]([https://github.com/AbdelrahmanTheAnalyst/Item-Sales-Summary-Report-Project/blob/main/ERD.png)
 
 ---
 
