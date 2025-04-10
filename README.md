@@ -1,4 +1,4 @@
-# 📊 Item Sales Summary Report
+# 📊 Wide World Importers Report
 
 An interactive Power BI dashboard analyzing item sales across different geographies, customers, and products. This report delivers actionable business insights on sales performance, costs, and profit trends over time.
 
