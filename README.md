@@ -27,7 +27,7 @@ An interactive Power BI dashboard analyzing item sales across different geograph
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/AbdelrahmanTheAnalyst/your-repo-name/raw/main/path/to/your-dashboard-image.png)
+![Dashboard Screenshot](https://github.com/AbdelrahmanTheAnalyst/Item-Sales-Summary-Report-Project/blob/main/Dashboard.png)
 
 ---
 
